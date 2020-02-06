@@ -13,4 +13,16 @@
 
 Route::get('/', 'HomeController@index');
 
-Route::get('/profile/', 'HomeController@showProfile');
+Route::get('/ads/', 'HomeController@ads');
+
+Route::get('/ad/', 'HomeController@ad');
+
+Route::get('/about/', 'HomeController@about');
+
+Route::get('/contact/', 'HomeController@contact');
+
+Route::get('/blog/', 'HomeController@blog');
+
+Route::get('/login/', 'HomeController@login');
+
+Route::get('/register/', 'HomeController@register');

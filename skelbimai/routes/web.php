@@ -13,9 +13,9 @@
 
 Route::get('/', 'HomeController@index');
 
-Route::get('/ads/', 'HomeController@ads');
+Route::get('/all-ads/', 'HomeController@allAds');
 
-Route::get('/ad/', 'HomeController@ad');
+Route::get('/ad/{ad}', 'HomeController@ad');
 
 Route::get('/about/', 'HomeController@about');
 
@@ -26,3 +26,19 @@ Route::get('/blog/', 'HomeController@blog');
 Route::get('/login/', 'HomeController@login');
 
 Route::get('/register/', 'HomeController@register');
+
+
+
+Route::get('/add-category/', 'CategoryController@addCategory');
+
+Route::post("/store-category/", "CategoryController@storeCategory");
+
+Route::get("/manage-categories/", "CategoryController@showCategories");
+
+Route::get("/delete/category/{category}", "CategoryController@deleteCategory");
+
+
+Route::get("/manage-ads/", 'AdsController@manageAds');
+Route::get('/add-ad/', 'AdsController@addAd');
+Route::get("/delete/ad/{ad}", "AdsController@deleteAd");
+Route::post("/store-ad/", "AdsController@storeAd");

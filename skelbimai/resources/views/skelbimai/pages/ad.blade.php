@@ -2,7 +2,7 @@
 
 @section("content")
 <main>
-    <div class="site-blocks-cover inner-page-cover overlay" style="background-image: url(images/hero_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+    <div class="site-blocks-cover inner-page-cover overlay" style="background-image: url(/images/hero_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
         <div class="container">
             <div class="row align-items-center justify-content-center text-center">
 
@@ -11,8 +11,8 @@
 
                     <div class="row justify-content-center mt-5">
                         <div class="col-md-8 text-center">
-                            <h1>Happy Buying Online</h1>
-                            <p class="mb-0">Don St, Brooklyn, New York</p>
+                            <h1>{{$ad['name']}}</h1>
+                            <p class="mb-0">{{$ad['location']}}</p>
                         </div>
                     </div>
 
@@ -29,18 +29,36 @@
 
                     <div class="mb-4" style="margin-top: -150px;">
                         <div class="slide-one-item home-slider owl-carousel">
-                            <div><img src="images/img_2.jpg" alt="Image" class="img-fluid rounded"></div>
-                            <div><img src="images/img_3.jpg" alt="Image" class="img-fluid rounded"></div>
-                            <div><img src="images/img_4.jpg" alt="Image" class="img-fluid rounded"></div>
-                            <div><img src="images/img_1.jpg" alt="Image" class="img-fluid rounded"></div>
+                            <div><img src="/images/img_2.jpg" alt="Image" class="img-fluid rounded"></div>
                         </div>
                     </div>
 
-                    <h4 class="h5 mb-4 text-black">Description</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error repellat architecto maiores vero, quasi dolor, accusantium autem aliquam, ullam sequi saepe illum eaque aperiam eius amet! Necessitatibus nam sapiente obcaecati sit, fugit omnis non sunt distinctio aliquid, quibusdam excepturi hic?</p>
-                    <p>Nisi, error. Molestias, quidem eaque sequi aut perspiciatis assumenda obcaecati ut quod eius reprehenderit. Iure rem numquam totam odio dignissimos aspernatur soluta. Corporis suscipit modi iste consequatur, repellat nihil omnis molestias optio. Dolorem ullam eius officia, eum ratione dolorum assumenda.</p>
-                    <p>Soluta corporis blanditiis cupiditate debitis eveniet, temporibus ut cumque sint repudiandae quidem tenetur commodi id, quam. Sapiente corrupti magnam quis nulla, asperiores neque tenetur labore aperiam provident nostrum sequi delectus voluptatem fuga officiis repellat, ratione aspernatur eius repellendus modi reprehenderit.</p>
-                    <p>Sapiente molestias voluptate cupiditate blanditiis quasi qui aperiam accusamus aspernatur ipsam velit nihil quaerat voluptatum soluta laboriosam ipsum veritatis at reiciendis quod voluptates, saepe harum dignissimos placeat dolorum aliquid! Quod quasi praesentium optio ratione non et sit quos excepturi cum?</p>
+                    <h4 class="h5 mb-4 text-black">Aprašymas</h4>
+                    <p>{{$ad['description']}}</p>
+
+                    <h4 class="h5 mb-4 text-black">Kaina</h4>
+                    <p>
+                        @if($ad['price'] == 0)
+                            --
+                        @else
+                            {{$ad['price']}}
+                        @endif
+                    </p>
+
+                    <h4 class="h5 mb-4 text-black">El. paštas</h4>
+                    <p>{{$ad['email']}}</p>
+
+                    <h4 class="h5 mb-4 text-black">Telefono numeris</h4>
+                    <p>
+                        @if($ad['phone'] == 0)
+                            --
+                        @else
+                            {{$ad['phone']}}
+                        @endif
+                    </p>
+
+                    <h4 class="h5 mb-4 text-black">Vieta</h4>
+                    <p>{{$ad['location']}}</p>
 
                     <p class="mt-3"><a href="#" class="btn btn-primary">Get In Touch</a></p>
 
@@ -136,210 +154,5 @@
         </div>
     </div>
 
-    <div class="site-section bg-light">
-        <div class="container">
-            <div class="row mb-5">
-                <div class="col-md-7 text-left border-primary">
-                    <h2 class="font-weight-light text-primary">Trending Today</h2>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-lg-6">
-
-                    <div class="d-block d-md-flex listing">
-                        <a href="#" class="img d-block" style="background-image: url('images/img_2.jpg')"></a>
-                        <div class="lh-content">
-                            <span class="category">Real Estate</span>
-                            <a href="#" class="bookmark"><span class="icon-heart"></span></a>
-                            <h3><a href="#">House with Swimming Pool</a></h3>
-                            <address>Don St, Brooklyn, New York</address>
-                            <p class="mb-0">
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-secondary"></span>
-                                <span class="review">(3 Reviews)</span>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="d-block d-md-flex listing">
-                        <a href="#" class="img d-block" style="background-image: url('images/img_3.jpg')"></a>
-                        <div class="lh-content">
-                            <span class="category">Furniture</span>
-                            <a href="#" class="bookmark"><span class="icon-heart"></span></a>
-                            <h3><a href="#">Wooden Chair &amp; Table</a></h3>
-                            <address>Don St, Brooklyn, New York</address>
-                            <p class="mb-0">
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-secondary"></span>
-                                <span class="review">(3 Reviews)</span>
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="d-block d-md-flex listing">
-                        <a href="#" class="img d-block" style="background-image: url('images/img_4.jpg')"></a>
-                        <div class="lh-content">
-                            <span class="category">Electronics</span>
-                            <a href="#" class="bookmark"><span class="icon-heart"></span></a>
-                            <h3><a href="#">iPhone X gray</a></h3>
-                            <address>Don St, Brooklyn, New York</address>
-                            <p class="mb-0">
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-secondary"></span>
-                                <span class="review">(3 Reviews)</span>
-                            </p>
-                        </div>
-                    </div>
-
-
-
-                </div>
-                <div class="col-lg-6">
-
-                    <div class="d-block d-md-flex listing">
-                        <a href="#" class="img d-block" style="background-image: url('images/img_1.jpg')"></a>
-                        <div class="lh-content">
-                            <span class="category">Cars &amp; Vehicles</span>
-                            <a href="#" class="bookmark"><span class="icon-heart"></span></a>
-                            <h3><a href="#">Red Luxury Car</a></h3>
-                            <address>Don St, Brooklyn, New York</address>
-                            <p class="mb-0">
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-secondary"></span>
-                                <span class="review">(3 Reviews)</span>
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="d-block d-md-flex listing">
-                        <a href="#" class="img d-block" style="background-image: url('images/img_2.jpg')"></a>
-                        <div class="lh-content">
-                            <span class="category">Real Estate</span>
-                            <a href="#" class="bookmark"><span class="icon-heart"></span></a>
-                            <h3><a href="#">House with Swimming Pool</a></h3>
-                            <address>Don St, Brooklyn, New York</address>
-                            <p class="mb-0">
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-secondary"></span>
-                                <span class="review">(3 Reviews)</span>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="d-block d-md-flex listing">
-                        <a href="#" class="img d-block" style="background-image: url('images/img_3.jpg')"></a>
-                        <div class="lh-content">
-                            <span class="category">Furniture</span>
-                            <a href="#" class="bookmark"><span class="icon-heart"></span></a>
-                            <h3><a href="#">Wooden Chair &amp; Table</a></h3>
-                            <address>Don St, Brooklyn, New York</address>
-                            <p class="mb-0">
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-warning"></span>
-                                <span class="icon-star text-secondary"></span>
-                                <span class="review">(3 Reviews)</span>
-                            </p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="site-section bg-white">
-        <div class="container">
-
-            <div class="row justify-content-center mb-5">
-                <div class="col-md-7 text-center border-primary">
-                    <h2 class="font-weight-light text-primary">Testimonials</h2>
-                </div>
-            </div>
-
-            <div class="slide-one-item home-slider owl-carousel">
-                <div>
-                    <div class="testimonial">
-                        <figure class="mb-4">
-                            <img src="images/person_3.jpg" alt="Image" class="img-fluid mb-3">
-                            <p>John Smith</p>
-                        </figure>
-                        <blockquote>
-                            <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-                        </blockquote>
-                    </div>
-                </div>
-                <div>
-                    <div class="testimonial">
-                        <figure class="mb-4">
-                            <img src="images/person_2.jpg" alt="Image" class="img-fluid mb-3">
-                            <p>Christine Aguilar</p>
-                        </figure>
-                        <blockquote>
-                            <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-                        </blockquote>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="testimonial">
-                        <figure class="mb-4">
-                            <img src="images/person_4.jpg" alt="Image" class="img-fluid mb-3">
-                            <p>Robert Spears</p>
-                        </figure>
-                        <blockquote>
-                            <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-                        </blockquote>
-                    </div>
-                </div>
-
-                <div>
-                    <div class="testimonial">
-                        <figure class="mb-4">
-                            <img src="images/person_5.jpg" alt="Image" class="img-fluid mb-3">
-                            <p>Bruce Rogers</p>
-                        </figure>
-                        <blockquote>
-                            <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-                        </blockquote>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
-
-    <div class="newsletter bg-primary py-5">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <h2>Newsletter</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-                </div>
-                <div class="col-md-6">
-
-                    <form class="d-flex">
-                        <input type="text" class="form-control" placeholder="Email">
-                        <input type="submit" value="Subscribe" class="btn btn-white">
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
 </main>
 @stop

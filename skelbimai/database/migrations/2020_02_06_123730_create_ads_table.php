@@ -18,13 +18,12 @@ class CreateAdsTable extends Migration
             $table->string("name");
             $table->longText("description");
             $table->string("img")->nullable();
-            $table->decimal("price")->nullable();
+            $table->decimal("price", 5, 2)->nullable()->default(0);
             $table->string("email");
             $table->string("phone")->nullable();
             $table->string("location");
 
             $table->integer("categoryId");
-            $table->integer("userId");
 
             $table->timestamps();
 

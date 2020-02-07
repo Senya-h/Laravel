@@ -11,7 +11,7 @@
 
                 <ul class="site-menu js-clone-nav mr-auto d-none d-lg-block">
                     <li class="active"><a href="/">Pagrindinis</a></li>
-                    <li><a href="/ads">Skelbimai</a></li>
+                    <li><a href="/all-ads">Skelbimai</a></li>
                     <li class="has-children">
                         <a href="/about">Apie</a>
                         <ul class="dropdown">

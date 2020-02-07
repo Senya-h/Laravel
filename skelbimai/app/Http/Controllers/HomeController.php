@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Ads;
+use App\Category;
 
 class HomeController extends Controller
 {
@@ -10,18 +12,9 @@ class HomeController extends Controller
         return view("skelbimai.pages.home");
     }
 
-    public function ads() {
-//        $darbuotojai = [
-//            "Jonas",
-//            "Petras",
-//            "Antanas",
-//            "Ieva"
-//        ];
-//
-//        //dd($darbuotojai); //dumpas
-        //return redirect("http://www.kitm.lt");
-
-        return view('skelbimai.pages.all_ads'/*, compact('darbuotojai')*/);
+    public function allAds() {
+        $ads = Ads::select("*")->join("categories", 'categoryId', '=', 'categories.id')->get();
+        return view('skelbimai.pages.allAds', compact('ads'));
     }
 
     public function about() {
@@ -44,8 +37,10 @@ class HomeController extends Controller
         return view("skelbimai.pages.register");
     }
 
-    public function ad() {
-        return view("skelbimai.pages.ad");
+    public function ad(Ads $ad) {
+        $ad = $ad->attributesToArray();
+
+        return view("skelbimai.pages.ad", compact('ad'));
     }
 
 }

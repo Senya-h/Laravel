@@ -13,7 +13,16 @@ class HomeController extends Controller
     }
 
     public function allAds() {
-        $ads = Ads::select("*")->join("categories", 'categoryId', '=', 'categories.id')->get();
+        $ads = Ads::select("ads.id as id",
+                            "ads.name as title",
+                            "categories.name as category",
+//                            "ads.description",
+//                            "ads.price",
+                            "ads.location")
+//                            "ads.email",
+//                            "ads.phone")
+            ->join("categories", 'categoryId', '=', 'categories.id')->get();
+
         return view('skelbimai.pages.allAds', compact('ads'));
     }
 

@@ -33,9 +33,9 @@
                                     <div class="d-block d-md-flex listing vertical">
                                         <a href="/ad/{{$ad->id}}" class="img d-block" style="background-image: url('images/img_1.jpg')"></a>
                                         <div class="lh-content">
-                                            <span class="category">{{$ad->categoryId}}</span>
+                                            <span class="category">{{$ad->category}}</span>
                                             <a href="#" class="bookmark"><span class="icon-heart"></span></a>
-                                            <h3><a href="/ad/{{$ad->id}}">{{$ad->name}}</a></h3>
+                                            <h3><a href="/ad/{{$ad->id}}">{{$ad->title}}</a></h3>
                                             <address>{{$ad->location}}</address>
                                             <p class="mb-0">
                                                 <span class="icon-star text-warning"></span>

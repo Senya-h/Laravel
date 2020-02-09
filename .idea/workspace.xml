@@ -2,12 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9443d1fe-0da7-49d4-a5d4-02827adef6c9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/skelbimai/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/10/10c72c39cd02a58eb04dc88ef10c4fcf93166acb002a0925eb30db364c44f1d5.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/10/10c72c39cd02a58eb04dc88ef10c4fcf93166acb002a0925eb30db364c44f1d5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/1a/1a252bbb81ec9c047fc0ea8e9b6a10f55e0d33f37616988384644fef30a46c75.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/1a/1a252bbb81ec9c047fc0ea8e9b6a10f55e0d33f37616988384644fef30a46c75.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/1d/1da45e8aa0465bec769fff74cd812af91199a0218e000af0be9b94b44a56cc31.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/1d/1da45e8aa0465bec769fff74cd812af91199a0218e000af0be9b94b44a56cc31.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/1e/1e5091e3ea38f3865373f9410368164ddb6eb0834b3f9665a0c279d4a0f1f0ed.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/1e/1e5091e3ea38f3865373f9410368164ddb6eb0834b3f9665a0c279d4a0f1f0ed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/43/4382c077f009999efaa33bbb061042c14d73f8a31fed6483de05889552ce1c5d.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/43/4382c077f009999efaa33bbb061042c14d73f8a31fed6483de05889552ce1c5d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/43/43cd04f09538f9b67db51dc0091b119a42967d22ef668495481b19aacd180026.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/43/43cd04f09538f9b67db51dc0091b119a42967d22ef668495481b19aacd180026.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/47/47d3b6b9cbb4f6d6892d689e329b20706b021af811f45a430904a64f89520bbf.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/47/47d3b6b9cbb4f6d6892d689e329b20706b021af811f45a430904a64f89520bbf.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/4e/4e99f83b49b94f89828c467d73f7729446e9b553864b4e7bba2db3bc1434df74.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/4e/4e99f83b49b94f89828c467d73f7729446e9b553864b4e7bba2db3bc1434df74.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/60/60b058ea5908758ccaa92e2759a4ffe3bcf2d9944d8d1652790ce5044cb2e342.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/60/60b058ea5908758ccaa92e2759a4ffe3bcf2d9944d8d1652790ce5044cb2e342.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/63/638e1599e869649c2d9660d6ce4683aa6599fd1de57f808cb2b6000b5a2f6750.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/63/638e1599e869649c2d9660d6ce4683aa6599fd1de57f808cb2b6000b5a2f6750.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/65/6562def66143f0109c9fe4f140a916a9c86b243225ec940adbe1de6b7c3203a5.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/65/6562def66143f0109c9fe4f140a916a9c86b243225ec940adbe1de6b7c3203a5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/71/71e952f92fa3f548d483bf04e9f639f5cba7763d7c1bd3c5fca4e3b79ca2a818.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/71/71e952f92fa3f548d483bf04e9f639f5cba7763d7c1bd3c5fca4e3b79ca2a818.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/7e/7e3f1c43ec22d0e30941cfeceb159feab5830d5794b90952cd86639b098bcd21.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/7e/7e3f1c43ec22d0e30941cfeceb159feab5830d5794b90952cd86639b098bcd21.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/83/8301d02bd2500b3a0d113f440a7c809010bdb7215c91e997ab54cd7bbaa7f57c.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/83/8301d02bd2500b3a0d113f440a7c809010bdb7215c91e997ab54cd7bbaa7f57c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/8c/8cfe52fad640fea6864724a83310f083ed04d910e3f9c65e59bc16c11bf1fe2b.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/8c/8cfe52fad640fea6864724a83310f083ed04d910e3f9c65e59bc16c11bf1fe2b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/9a/9aa35e4346bfa4dba1d6e73ec2eff2e9c8e1b4a422b04d5c7a1c510c4a8bb642.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/9a/9aa35e4346bfa4dba1d6e73ec2eff2e9c8e1b4a422b04d5c7a1c510c4a8bb642.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/9c/9c559364f04cbf51520847d08def978cc1cc80974dd964d09e7593b17c82525b.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/9c/9c559364f04cbf51520847d08def978cc1cc80974dd964d09e7593b17c82525b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/9d/9d56c7b1b3e49ed82a485b3f8aaacc7ac9eb60526334cbd08f5cb62fe20fdaef.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/9d/9d56c7b1b3e49ed82a485b3f8aaacc7ac9eb60526334cbd08f5cb62fe20fdaef.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/a3/a32462770f4a68a6845d610322518f6698996ebbb0f7075a9f5472c6dbe1918d.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/a3/a32462770f4a68a6845d610322518f6698996ebbb0f7075a9f5472c6dbe1918d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/ac/ac24f26c6f26a5a480072a63aec02feff88914e6b34251d1591642a19c3a6d61.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/ac/ac24f26c6f26a5a480072a63aec02feff88914e6b34251d1591642a19c3a6d61.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/b8/b86ba96f948986966ffc916dc5b0fa2eed5251fa4a185328d427c135c7cae128.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/b8/b86ba96f948986966ffc916dc5b0fa2eed5251fa4a185328d427c135c7cae128.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/d1/d19525b0ad19d2dc4145fc7f55178ae5f8bf0c9ea28d43422febb6b170db51af.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/d1/d19525b0ad19d2dc4145fc7f55178ae5f8bf0c9ea28d43422febb6b170db51af.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/d4/d49b804c743ed4e43abd5aaca939be3929e153e41b69e903616f4d3a8412e280.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/d4/d49b804c743ed4e43abd5aaca939be3929e153e41b69e903616f4d3a8412e280.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/d7/d72b2f5d442015f9b0ea9872be3af4ba52c97208730f21783af46f66e12fe084.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/d7/d72b2f5d442015f9b0ea9872be3af4ba52c97208730f21783af46f66e12fe084.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/e7/e7d877cb943acf13347b2dc0df1476d978078d02ad41c440b23b18a723ec744f.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/e7/e7d877cb943acf13347b2dc0df1476d978078d02ad41c440b23b18a723ec744f.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/e9/e9c5a7dd3a7341bd63c03df3c8fd0ddec664ff85bd68402a5d2ecb1b57e812c1.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/e9/e9c5a7dd3a7341bd63c03df3c8fd0ddec664ff85bd68402a5d2ecb1b57e812c1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/public/tmp/twig/f7/f7be9814127bf420cac78cf8e7d20d62d84639de190112fe505e4a5500c517ba.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/public/tmp/twig/f7/f7be9814127bf420cac78cf8e7d20d62d84639de190112fe505e4a5500c517ba.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skelbimai/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/skelbimai/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skelbimai/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/skelbimai/app/Http/Controllers/HomeController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/allAds.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/allAds.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/home.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,25 +44,16 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/skelbimai/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CategoryController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/CategoryController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <element signature="e#39#56#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdsController.php" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/AdsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
+            <state relative-caret-position="731">
               <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
@@ -42,61 +62,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="manageCategories.blade.php" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/manageCategories.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="17">
               <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skelbimai/routes/web.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/allAds.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="800">
+              <caret line="57" column="52" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ad.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/ad.blade.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="67" column="26" lean-forward="true" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/HomeController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            <state relative-caret-position="96">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
               <folding>
-                <element signature="e#40#68#0#PHP" expanded="true" />
+                <element signature="e#59#3580#0#HTML" />
+                <element signature="e#3668#3833#0#HTML" />
+                <element signature="e#14000#17204#0#HTML" />
+                <element signature="e#17211#24688#0#HTML" />
+                <element signature="e#24694#27932#0#HTML" />
+                <element signature="e#27940#30821#0#HTML" />
+                <element signature="e#30828#31484#0#HTML" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="allAds.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/allAds.blade.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="35" column="86" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manageAds.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/manageAds.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
+            <state relative-caret-position="109">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding>
-                <element signature="e#115#164#0#HTML" expanded="true" />
+                <element signature="e#40#68#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,7 +141,6 @@
         <option value="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/ad.page.php" />
         <option value="$PROJECT_DIR$/skelbimai/webpack.mix.js" />
         <option value="$PROJECT_DIR$/skelbimai/resources/views/profile.blade.php" />
-        <option value="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/home.blade.php" />
         <option value="$PROJECT_DIR$/skelbimai/public/fonts/flaticon/font/flaticon.css" />
         <option value="$PROJECT_DIR$/skelbimai/database/migrations/2020_02_06_122853_create_categories_table.php" />
         <option value="$PROJECT_DIR$/skelbimai/app/Http/Controllers/Ads.php" />
@@ -155,18 +162,10 @@
         <option value="$PROJECT_DIR$/skelbimai/app/Http/Controllers/AdsController.php" />
         <option value="$PROJECT_DIR$/skelbimai/routes/web.php" />
         <option value="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/allAds.blade.php" />
+        <option value="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/home.blade.php" />
         <option value="$PROJECT_DIR$/skelbimai/app/Http/Controllers/HomeController.php" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/skelbimai/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -260,10 +259,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -279,57 +278,63 @@
           <expand>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -338,6 +343,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -388,11 +394,12 @@
       <workItem from="1580976229630" duration="17535000" />
       <workItem from="1581055533225" duration="7281000" />
       <workItem from="1581063101879" duration="16927000" />
+      <workItem from="1581192224031" duration="3760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49158000" />
+    <option name="totallyTimeSpent" value="52918000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,36 +411,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
-      <window_info anchor="right" id="SvgViewer" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.32897604" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3278867" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" visible="true" weight="0.26797387" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1684435" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1704698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32650074" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.26793557" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SvgViewer" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/skelbimai/public/js/main.js">
@@ -542,13 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="579" column="18" selection-start-line="579" selection-start-column="1" selection-end-line="579" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="546" column="7" selection-start-line="546" selection-start-column="7" selection-end-line="546" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -702,36 +699,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/manageAds.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
-          <folding>
-            <element signature="e#115#164#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/CategoryController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="374">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#39#56#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/manageCategories.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/AdsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
+        <state relative-caret-position="731">
           <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
@@ -739,31 +719,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skelbimai/routes/web.php">
+    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/manageAds.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="20" />
+        <state relative-caret-position="87">
+          <caret line="30" column="57" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/ad.blade.php">
+    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="67" column="26" lean-forward="true" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+        <state relative-caret-position="96">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#59#3580#0#HTML" />
+            <element signature="e#3668#3833#0#HTML" />
+            <element signature="e#14000#17204#0#HTML" />
+            <element signature="e#17211#24688#0#HTML" />
+            <element signature="e#24694#27932#0#HTML" />
+            <element signature="e#27940#30821#0#HTML" />
+            <element signature="e#30828#31484#0#HTML" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/allAds.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="35" column="86" selection-start-line="35" selection-start-column="70" selection-end-line="35" selection-end-column="86" />
+        <state relative-caret-position="800">
+          <caret line="57" column="52" selection-start-line="57" selection-start-column="52" selection-end-line="57" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/ad.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/manageCategories.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        <state relative-caret-position="109">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>

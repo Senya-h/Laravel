@@ -5,10 +5,12 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Ads;
 use App\Category;
+use Illuminate\Support\Facades\DB;
 
 class HomeController extends Controller
 {
     public function index() {
+        $ads = Ads::latest()->limit(6);
         return view("skelbimai.pages.home");
     }
 
@@ -21,7 +23,7 @@ class HomeController extends Controller
                             "ads.location")
 //                            "ads.email",
 //                            "ads.phone")
-            ->join("categories", 'categoryId', '=', 'categories.id')->get();
+            ->join("categories", 'categoryId', '=', 'categories.id')->paginate(2);
 
         return view('skelbimai.pages.allAds', compact('ads'));
     }

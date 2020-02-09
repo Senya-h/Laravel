@@ -79,9 +79,9 @@ class __TwigTemplate_429611b60f8edc714735eb12a1eb4afda38025889a6c7a887291d1851c7
                 echo _gettext("You are using the demo server. You can do anything here, but please do not change root, debian-sys-maint and pma users. More information is available at %s.");
                 // line 22
                 echo "            ";
-                $___internal_822eda2ebf7c8dc187712475ee651ba07654d4cea3764bf10f6a2e647a2adce3_ = ('' === $tmp = ob_get_clean()) ? '' : new Markup($tmp, $this->env->getCharset());
+                $___internal_65f89c58270d8d93e72011ac80d35c6f1ffc8c7f26ecbaef58237608460b4616_ = ('' === $tmp = ob_get_clean()) ? '' : new Markup($tmp, $this->env->getCharset());
                 // line 18
-                echo sprintf($___internal_822eda2ebf7c8dc187712475ee651ba07654d4cea3764bf10f6a2e647a2adce3_, "<a href=\"url.php?url=https://demo.phpmyadmin.net/\" target=\"_blank\" rel=\"noopener noreferrer\">demo.phpmyadmin.net</a>");
+                echo sprintf($___internal_65f89c58270d8d93e72011ac80d35c6f1ffc8c7f26ecbaef58237608460b4616_, "<a href=\"url.php?url=https://demo.phpmyadmin.net/\" target=\"_blank\" rel=\"noopener noreferrer\">demo.phpmyadmin.net</a>");
                 // line 23
                 echo "          </p>
         </div>

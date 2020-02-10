@@ -40,5 +40,8 @@ Route::get("/delete/category/{category}", "CategoryController@deleteCategory");
 
 Route::get("/manage-ads/", 'AdsController@manageAds');
 Route::get('/add-ad/', 'AdsController@addAd');
-Route::get("/delete/ad/{ad}", "AdsController@deleteAd");
 Route::post("/store-ad/", "AdsController@storeAd");
+Route::get("/delete/ad/{ad}", "AdsController@deleteAd");
+Route::get("/edit/{ad}", "AdsController@editAd");
+Route::post("/save-edited-ad/", "AdsController@saveEditedAd");
+

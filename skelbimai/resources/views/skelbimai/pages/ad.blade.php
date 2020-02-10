@@ -11,8 +11,8 @@
 
                     <div class="row justify-content-center mt-5">
                         <div class="col-md-8 text-center">
-                            <h1>{{$ad['name']}}</h1>
-                            <p class="mb-0">{{$ad['location']}}</p>
+                            <h1>{{$ad->name}}</h1>
+                            <p class="mb-0">{{$ad->location}}</p>
                         </div>
                     </div>
 
@@ -34,31 +34,31 @@
                     </div>
 
                     <h4 class="h5 mb-4 text-black">Aprašymas</h4>
-                    <p>{{$ad['description']}}</p>
+                    <p>{{$ad->description}}</p>
 
                     <h4 class="h5 mb-4 text-black">Kaina</h4>
                     <p>
-                        @if($ad['price'] == 0)
+                        @if($ad->price == 0)
                             --
                         @else
-                            {{$ad['price']}}
+                            {{$ad->price}}
                         @endif
                     </p>
 
                     <h4 class="h5 mb-4 text-black">El. paštas</h4>
-                    <p>{{$ad['email']}}</p>
+                    <p>{{$ad->email}}</p>
 
                     <h4 class="h5 mb-4 text-black">Telefono numeris</h4>
                     <p>
-                        @if($ad['phone'] == 0)
+                        @if($ad->phone == 0)
                             --
                         @else
-                            {{$ad['phone']}}
+                            {{$ad->phone}}
                         @endif
                     </p>
 
                     <h4 class="h5 mb-4 text-black">Vieta</h4>
-                    <p>{{$ad['location']}}</p>
+                    <p>{{$ad->location}}</p>
 
                     <p class="mt-3"><a href="#" class="btn btn-primary">Get In Touch</a></p>
 

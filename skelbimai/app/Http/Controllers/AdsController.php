@@ -14,7 +14,7 @@ class AdsController extends Controller
     }
 
     public function storeAd(Request $request) {
-        $validateData = $request->validate([
+        $request->validate([
             'category' => 'required',
             'name' => 'required',
             'description' => 'required',
@@ -22,7 +22,7 @@ class AdsController extends Controller
             'email' => 'required',
         ]);
 
-        $ad = Ads::create([
+        Ads::create([
             'name' => request('name'),
             'description' => request('description'),
             'price' => request("price"),
@@ -44,5 +44,27 @@ class AdsController extends Controller
     public function deleteAd(Ads $ad) {
         $ad->delete();
         return redirect("/manage-ads");
+    }
+
+    public function editAd(Ads $ad) {
+        $categories = Category::all();
+
+        return view("skelbimai.pages.editAd", compact(["ad", "categories"]));
+    }
+
+    public function saveEditedAd(Request $request) {
+        $request->validate([
+            'categoryId' => 'required',
+            'name' => 'required',
+            'description' => 'required',
+            'location' => 'required',
+            'email' => 'required',
+        ]);
+
+
+        Ads::where("id", request('id'))->update($request->except(['_token', 'id']));
+
+        $message = "Pakeitimai sėkmingai išsaugoti!";
+        return redirect("/manage-ads")->with('status', $message);
     }
 }

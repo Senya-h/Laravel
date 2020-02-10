@@ -10,20 +10,22 @@ use Illuminate\Support\Facades\DB;
 class HomeController extends Controller
 {
     public function index() {
-        $ads = Ads::latest()->limit(6);
-        return view("skelbimai.pages.home");
+        $ads = Ads::select("ads.id as id",
+                            "ads.name as title",
+                            "categories.name as category",
+                            "categories.id as categoryId",
+                            "ads.location")
+            ->join("categories", 'categoryId', '=', 'categories.id')->orderBy("ads.id", 'desc')->take(6)->get();
+
+        return view("skelbimai.pages.home", compact('ads'));
     }
 
     public function allAds() {
         $ads = Ads::select("ads.id as id",
                             "ads.name as title",
                             "categories.name as category",
-//                            "ads.description",
-//                            "ads.price",
                             "ads.location")
-//                            "ads.email",
-//                            "ads.phone")
-            ->join("categories", 'categoryId', '=', 'categories.id')->paginate(2);
+            ->join("categories", 'categoryId', '=', 'categories.id')->paginate(4);
 
         return view('skelbimai.pages.allAds', compact('ads'));
     }
@@ -49,7 +51,7 @@ class HomeController extends Controller
     }
 
     public function ad(Ads $ad) {
-        $ad = $ad->attributesToArray();
+//        $ad = $ad->attributesToArray();
 
         return view("skelbimai.pages.ad", compact('ad'));
     }

@@ -20,26 +20,25 @@
                         <form method="post">
                             <div class="row align-items-center">
                                 <div class="col-lg-12 mb-4 mb-xl-0 col-xl-4">
-                                    <input type="text" class="form-control rounded" placeholder="What are you looking for?">
+                                    <input type="text" name="search" class="form-control rounded" placeholder="Paieška...">
                                 </div>
                                 <div class="col-lg-12 mb-4 mb-xl-0 col-xl-3">
                                     <div class="wrap-icon">
                                         <span class="icon icon-room"></span>
-                                        <input type="text" class="form-control rounded" placeholder="Location">
-                                    </div>
+                                        <input autocomplete="off" list="cityList" type="text" name="location" class="form-control rounded" placeholder="Vietovė">
+                                        <datalist id="cityList">
 
+                                        </datalist>
+                                    </div>
                                 </div>
                                 <div class="col-lg-12 mb-4 mb-xl-0 col-xl-3">
                                     <div class="select-wrap">
                                         <span class="icon"><span class="icon-keyboard_arrow_down"></span></span>
-                                        <select class="form-control rounded" name="" id="">
-                                            <option value="">All Categories</option>
-                                            <option value="">Real Estate</option>
-                                            <option value="">Books &amp;  Magazines</option>
-                                            <option value="">Furniture</option>
-                                            <option value="">Electronics</option>
-                                            <option value="">Cars &amp; Vehicles</option>
-                                            <option value="">Others</option>
+                                        <select class="form-control rounded" name="categoryId">
+                                            <option selected value="0">Visos kategorijos</option>
+                                            @foreach($ads as $ad)
+                                                <option value="{{$ad->categoryId}}">{{$ad->category}}</option>
+                                            @endforeach
                                         </select>
                                     </div>
                                 </div>
@@ -78,14 +77,14 @@
             <div class="row">
                 <div class="col-12 block-13">
                     <div class="owl-carousel nonloop-block-13">
-
+                        @foreach($ads as $ad)
                         <div class="d-block d-md-flex listing vertical">
-                            <a href="listings-single.html" class="img d-block" style="background-image: url('images/img_1.jpg')"></a>
+                            <a href="/ad/{{$ad->id}}" class="img d-block" style="background-image: url('images/img_1.jpg')"></a>
                             <div class="lh-content">
-                                <span class="category">Cars &amp; Vehicles</span>
+                                <span class="category">{{$ad->category}}</span>
                                 <a href="#" class="bookmark"><span class="icon-heart"></span></a>
-                                <h3><a href="listings-single.html">New Black Car</a></h3>
-                                <address>Don St, Brooklyn, New York</address>
+                                <h3><a href="/ad/{{$ad->id}}">{{$ad->title}}</a></h3>
+                                <address>{{$ad->location}}</address>
                                 <p class="mb-0">
                                     <span class="icon-star text-warning"></span>
                                     <span class="icon-star text-warning"></span>
@@ -96,7 +95,7 @@
                                 </p>
                             </div>
                         </div>
-
+                        @endforeach
                     </div>
                 </div>
 

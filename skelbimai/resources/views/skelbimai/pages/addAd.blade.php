@@ -27,7 +27,7 @@
                 <div class="row">
                     <div class="col-md-12 mb-5"  data-aos="fade">
 
-                        <form method="POST" action='/store-ad' class="p-5 bg-white">
+                        <form method="POST" action='/store-ad' enctype="multipart/form-data" class="p-5 bg-white">
                             @if ($errors->any())
                                 <div class="alert alert-danger">
                                     <ul>

@@ -16,22 +16,27 @@ class AdsController extends Controller
     public function storeAd(Request $request) {
         $request->validate([
             'category' => 'required',
-            'name' => 'required',
-            'description' => 'required',
+            'name' => 'required|max:255',
+            'description' => 'required|max:3000',
             'location' => 'required',
             'email' => 'required',
+            'image' => 'mimes:jpeg,jpg,png,gif|required|max:10000'
         ]);
+        $path = $request->file("image")->store("public/images");
+        $fileName = str_replace("public/", "", $path);
 
-        Ads::create([
+        $ad = Ads::create([
             'name' => request('name'),
             'description' => request('description'),
             'price' => request("price"),
-            'img' => request('image'),
+            'img' => $fileName,
             'location' => request('location'),
             'email' => request('email'),
             'phone' => request('phone'),
             'categoryId' => request("category"),
         ]);
+
+        dd($ad);
 
         return redirect("/all-ads");
     }

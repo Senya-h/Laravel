@@ -27,6 +27,7 @@ Route::get('/login/', 'HomeController@login');
 
 Route::get('/register/', 'HomeController@register');
 
+Route::get("/search/", 'HomeController@search');
 
 
 Route::get('/add-category/', 'CategoryController@addCategory');

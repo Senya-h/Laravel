@@ -5,6 +5,9 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Ads;
 use App\Category;
+use File;
+use View;
+use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\Facades\DB;
 
 class HomeController extends Controller
@@ -17,7 +20,9 @@ class HomeController extends Controller
                             "ads.location")
             ->join("categories", 'categoryId', '=', 'categories.id')->orderBy("ads.id", 'desc')->take(6)->get();
 
-        return view("skelbimai.pages.home", compact('ads'));
+        $categories = Category::all();
+
+        return view("skelbimai.pages.home", compact('ads', 'categories'));
     }
 
     public function allAds() {
@@ -50,9 +55,35 @@ class HomeController extends Controller
         return view("skelbimai.pages.register");
     }
 
-    public function ad(Ads $ad) {
-//        $ad = $ad->attributesToArray();
+    public function search(Request $request) {
+        $ads = Ads::select("ads.id as id",
+            "ads.name as title",
+            "categories.name as category",
+            "ads.location")
+            ->join("categories", 'categoryId', '=', 'categories.id');
 
+        if(request("search")) {
+            $ads = $ads->where("ads.name", "LIKE", "%".request("search")."%");
+        }
+
+        if(request("location")) {
+            $ads = $ads->where("ads.location", "LIKE", "%".request("location")."%");
+        }
+
+        if(request("categoryId")) {
+            $ads = $ads->where("categoryId", "LIKE", "%".request("categoryId")."%");
+        }
+
+        $ads = $ads->paginate(4)->withPath($request->fullUrl());
+
+        if(empty($ads)) {
+            dd($ads);
+        }
+
+        return view("skelbimai.pages.allAds", compact('ads'));
+    }
+
+    public function ad(Ads $ad) {
         return view("skelbimai.pages.ad", compact('ad'));
     }
 

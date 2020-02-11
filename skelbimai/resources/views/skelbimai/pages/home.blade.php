@@ -17,7 +17,7 @@
                     </div>
 
                     <div class="form-search-wrap mb-3" data-aos="fade-up" data-aos-delay="200">
-                        <form method="post">
+                        <form method="GET" action="/search">
                             <div class="row align-items-center">
                                 <div class="col-lg-12 mb-4 mb-xl-0 col-xl-4">
                                     <input type="text" name="search" class="form-control rounded" placeholder="Paieška...">
@@ -35,9 +35,9 @@
                                     <div class="select-wrap">
                                         <span class="icon"><span class="icon-keyboard_arrow_down"></span></span>
                                         <select class="form-control rounded" name="categoryId">
-                                            <option selected value="0">Visos kategorijos</option>
-                                            @foreach($ads as $ad)
-                                                <option value="{{$ad->categoryId}}">{{$ad->category}}</option>
+                                            <option selected value="">Visos kategorijos</option>
+                                            @foreach($categories as $category)
+                                                <option value="{{$category->id}}">{{$category->name}}</option>
                                             @endforeach
                                         </select>
                                     </div>

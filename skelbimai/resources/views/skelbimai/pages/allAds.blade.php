@@ -29,7 +29,7 @@
                         <div class="row">
                             @foreach($ads as $ad)
                                 <div class="col-lg-6">
-
+                                    <p>{{$ad->img}}</p>
                                     <div class="d-block d-md-flex listing vertical">
                                         <a href="/ad/{{$ad->id}}" class="img d-block" style="background-image: url('images/img_1.jpg')"></a>
                                         <div class="lh-content">

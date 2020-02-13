@@ -7,16 +7,11 @@
                 <div class="row align-items-center justify-content-center text-center">
 
                     <div class="col-md-10" data-aos="fade-up" data-aos-delay="400">
-
-
                         <div class="row justify-content-center mt-5">
                             <div class="col-md-8 text-center">
                                 <h1>Log In</h1>
-                                <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
                             </div>
                         </div>
-
-
                     </div>
                 </div>
             </div>
@@ -30,7 +25,7 @@
 
                         <h2 class="mb-5 text-black">Log In</h2>
 
-                        <form action="{{ route('login') }}" class="p-5 bg-white">
+                        <form action="{{ route('login') }}" method="POST" class="p-5 bg-white">
                             @csrf
                             <div class="row form-group">
                                 <div class="col-md-12">
@@ -59,7 +54,7 @@
                             </div>
 
                             <div class="form-group row">
-                                <div class="col-md-6 offset-md-4">
+                                <div class="col-md-12">
                                     <div class="form-check">
                                         <input class="form-check-input" type="checkbox" name="remember" id="remember" {{ old('remember') ? 'checked' : '' }}>
 
@@ -80,9 +75,11 @@
                             </div>
 
                             @if (Route::has('password.request'))
+                            <div class="row form-group">
                                 <a class="btn btn-link" href="{{ route('password.request') }}">
                                     {{ __('Forgot Your Password?') }}
                                 </a>
+                            </div>
                             @endif
 
                             <div class="row form-group">

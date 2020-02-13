@@ -25,6 +25,8 @@ Route::get('/blog/', 'HomeController@blog');
 
 Route::get('/login/', 'HomeController@login');
 
+Route::get('/logout', 'HomeController@logout');
+
 Route::get('/register/', 'HomeController@register');
 
 Route::get("/search/", 'HomeController@search');
@@ -39,6 +41,7 @@ Route::get("/manage-categories/", "CategoryController@showCategories");
 Route::get("/delete/category/{category}", "CategoryController@deleteCategory");
 
 
+Route::get("/home/", 'AdsController@manageAds');
 Route::get("/manage-ads/", 'AdsController@manageAds');
 Route::get('/add-ad/', 'AdsController@addAd');
 Route::post("/store-ad/", "AdsController@storeAd");
@@ -46,19 +49,6 @@ Route::get("/delete/ad/{ad}", "AdsController@deleteAd");
 Route::get("/edit/{ad}", "AdsController@editAd");
 Route::post("/save-edited-ad/{ad}", "AdsController@saveEditedAd");
 
-
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
 
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
-
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');
-
-Auth::routes();
-
-Route::get('/home', 'HomeController@index')->name('home');

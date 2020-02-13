@@ -9,27 +9,10 @@ use File;
 use View;
 use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Auth;
+
 class HomeController extends Controller
 {
-    /**
-     * Create a new controller instance.
-     *
-     * @return void
-     */
-    public function __construct()
-    {
-        $this->middleware('auth');
-    }
-//
-//    /**
-//     * Show the application dashboard.
-//     *
-//     * @return \Illuminate\Contracts\Support\Renderable
-//     */
-//    public function index()
-//    {
-//        return view('home');
-//    }
 
     public function index() {
         $ads = Ads::select("ads.id as id",
@@ -68,14 +51,6 @@ class HomeController extends Controller
         return view("skelbimai.pages.blog");
     }
 
-    public function login() {
-        return view("skelbimai.pages.login");
-    }
-
-    public function register() {
-        return view("skelbimai.pages.register");
-    }
-
     public function search(Request $request) {
         $ads = Ads::select("ads.id as id",
             "ads.name as title",
@@ -97,15 +72,24 @@ class HomeController extends Controller
 
         $ads = $ads->paginate(4)->withPath($request->fullUrl());
 
-        if(empty($ads)) {
-            dd($ads);
-        }
-
         return view("skelbimai.pages.allAds", compact('ads'));
     }
 
     public function ad(Ads $ad) {
         return view("skelbimai.pages.ad", compact('ad'));
+    }
+
+    public function login() {
+        return view("skelbimai.pages.login");
+    }
+
+    public function register() {
+        return view("skelbimai.auth.register");
+    }
+
+    public function logout() {
+        Auth::logout();
+        return redirect("/");
     }
 }
 

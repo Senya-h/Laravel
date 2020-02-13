@@ -6,6 +6,17 @@ use Illuminate\Http\Request;
 
 class CategoryController extends Controller
 {
+
+    public function __construct()
+    {
+        $this->middleware('auth', ['only' => [
+            'addCategory',
+            'storeCategory',
+            'deleteCategory',
+            'showCategories'
+        ]]);
+    }
+
     public function addCategory() {
         return view("skelbimai.pages.addCategory");
     }

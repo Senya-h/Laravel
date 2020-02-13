@@ -9,6 +9,16 @@ use File;
 
 class AdsController extends Controller
 {
+
+    public function __construct()
+    {
+//        $this->middleware('auth', ['only' => [
+//            'manageAds'
+//        ]]);
+        $this->middleware('auth');
+    }
+
+
     public function addAd() {
         $categories = Category::all();
         return view("skelbimai.pages.addAd", compact("categories"));

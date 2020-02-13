@@ -44,5 +44,21 @@ Route::get('/add-ad/', 'AdsController@addAd');
 Route::post("/store-ad/", "AdsController@storeAd");
 Route::get("/delete/ad/{ad}", "AdsController@deleteAd");
 Route::get("/edit/{ad}", "AdsController@editAd");
-Route::post("/save-edited-ad/", "AdsController@saveEditedAd");
+Route::post("/save-edited-ad/{ad}", "AdsController@saveEditedAd");
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

@@ -9,15 +9,35 @@ use File;
 use View;
 use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\Facades\DB;
-
 class HomeController extends Controller
 {
+    /**
+     * Create a new controller instance.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        $this->middleware('auth');
+    }
+//
+//    /**
+//     * Show the application dashboard.
+//     *
+//     * @return \Illuminate\Contracts\Support\Renderable
+//     */
+//    public function index()
+//    {
+//        return view('home');
+//    }
+
     public function index() {
         $ads = Ads::select("ads.id as id",
-                            "ads.name as title",
-                            "categories.name as category",
-                            "categories.id as categoryId",
-                            "ads.location")
+            "ads.name as title",
+            "ads.img as img",
+            "categories.name as category",
+            "categories.id as categoryId",
+            "ads.location")
             ->join("categories", 'categoryId', '=', 'categories.id')->orderBy("ads.id", 'desc')->take(6)->get();
 
         $categories = Category::all();
@@ -27,9 +47,10 @@ class HomeController extends Controller
 
     public function allAds() {
         $ads = Ads::select("ads.id as id",
-                            "ads.name as title",
-                            "categories.name as category",
-                            "ads.location")
+            "ads.name as title",
+            "ads.img as img",
+            "categories.name as category",
+            "ads.location")
             ->join("categories", 'categoryId', '=', 'categories.id')->paginate(4);
 
         return view('skelbimai.pages.allAds', compact('ads'));
@@ -86,5 +107,6 @@ class HomeController extends Controller
     public function ad(Ads $ad) {
         return view("skelbimai.pages.ad", compact('ad'));
     }
-
 }
+
+

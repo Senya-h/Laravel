@@ -29,9 +29,8 @@
                         <div class="row">
                             @foreach($ads as $ad)
                                 <div class="col-lg-6">
-                                    <p>{{$ad->img}}</p>
                                     <div class="d-block d-md-flex listing vertical">
-                                        <a href="/ad/{{$ad->id}}" class="img d-block" style="background-image: url('images/img_1.jpg')"></a>
+                                        <a href="/ad/{{$ad->id}}" class="img d-block" style="background-image: url({{asset('storage/' . $ad->img)}})"></a>
                                         <div class="lh-content">
                                             <span class="category">{{$ad->category}}</span>
                                             <a href="#" class="bookmark"><span class="icon-heart"></span></a>

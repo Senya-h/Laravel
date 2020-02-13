@@ -27,7 +27,7 @@
                 <div class="row">
                     <div class="col-md-12 mb-5"  data-aos="fade">
 
-                        <form method="POST" action='/save-edited-ad' class="p-5 bg-white">
+                        <form method="POST" action='/save-edited-ad/{{$ad->id}}' enctype="multipart/form-data" class="p-5 bg-white">
                             @if ($errors->any())
                                 <div class="alert alert-danger">
                                     <ul>
@@ -77,6 +77,7 @@
                                 <div class="col-12 mb-3 mb-md-0">
                                     <label class="text-black" for="image">Nuotrauka</label>
                                     <input type="file" id="image" name="img" class="form-control">
+                                    <img class="my-2 my-lg-0" src="{{asset('storage/' . $ad->img)}}" style="height: auto; width: 186px;" alt="">
                                 </div>
                             </div>
 

@@ -29,7 +29,7 @@
 
                     <div class="mb-4" style="margin-top: -150px;">
                         <div class="slide-one-item home-slider owl-carousel">
-                            <div><img src="/images/img_2.jpg" alt="Image" class="img-fluid rounded"></div>
+                            <div><img src="{{asset('storage/' . $ad->img)}}" alt="Image" class="img-fluid rounded"></div>
                         </div>
                     </div>
 

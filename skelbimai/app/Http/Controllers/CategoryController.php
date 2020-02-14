@@ -35,6 +35,7 @@ class CategoryController extends Controller
 
     public function showCategories() {
         $categories = Category::all();
+        if(Auth::id())
         return view("skelbimai.pages.manageCategories", compact("categories"));
     }
 

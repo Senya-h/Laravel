@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Ads;
 use App\Category;
+use App\Comment;
+
 use File;
 use View;
 use Illuminate\Support\Facades\Gate;
@@ -54,6 +56,7 @@ class HomeController extends Controller
     public function search(Request $request) {
         $ads = Ads::select("ads.id as id",
             "ads.name as title",
+            "ads.img as img",
             "categories.name as category",
             "ads.location")
             ->join("categories", 'categoryId', '=', 'categories.id');
@@ -76,6 +79,7 @@ class HomeController extends Controller
     }
 
     public function ad(Ads $ad) {
+//        $comments = Comment::where('adId', '=', $ad->id)->get();
         return view("skelbimai.pages.ad", compact('ad'));
     }
 

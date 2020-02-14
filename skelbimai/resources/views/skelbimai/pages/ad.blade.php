@@ -59,8 +59,27 @@
 
                     <h4 class="h5 mb-4 text-black">Vieta</h4>
                     <p>{{$ad->location}}</p>
+                    <hr>
+                    <form method="POST" action="/ad/{{$ad->id}}/store-comment/">
+                        {{csrf_field()}}
+                        <textarea name="comment" id="" class="w-100" rows="10"></textarea>
+                        <button type="submit" class="btn btn-primary">Komentuoti</button>
+                    </form>
 
-                    <p class="mt-3"><a href="#" class="btn btn-primary">Get In Touch</a></p>
+                    @if(count($ad->comments))
+                        <div class="comments my-3">
+                            <h2>{{count($ad->comments)}} komentarai</h2>
+                            <ul class="comment-list my-3">
+                                @foreach($ad->comments as $comment)
+                                    <li class="comment">
+                                        <h3>{{$comment->name}}</h3>
+                                        <div class="meta">{{$comment->created_at}}</div>
+                                        <p>{{$comment->comment}}</p>
+                                    </li>
+                                @endforeach
+                            </ul>
+                        </div>
+                    @endif
 
                 </div>
                 <div class="col-lg-3 ml-auto">

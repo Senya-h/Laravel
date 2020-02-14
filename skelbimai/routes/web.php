@@ -49,6 +49,8 @@ Route::get("/delete/ad/{ad}", "AdsController@deleteAd");
 Route::get("/edit/{ad}", "AdsController@editAd");
 Route::post("/save-edited-ad/{ad}", "AdsController@saveEditedAd");
 
+Route::post('/ad/{ad}/store-comment', 'CommentController@storeComment');
+
 Auth::routes();
 
 

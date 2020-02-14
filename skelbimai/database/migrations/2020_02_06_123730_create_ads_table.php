@@ -24,10 +24,8 @@ class CreateAdsTable extends Migration
             $table->string("location");
 
             $table->integer("categoryId");
-
+            $table->integer("userId");
             $table->timestamps();
-
-
         });
     }
 

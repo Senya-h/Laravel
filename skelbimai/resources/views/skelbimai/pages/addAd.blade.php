@@ -41,7 +41,7 @@
                             <div class="row form-group">
                                 <div class="col-12 mb-3 mb-md-0">
                                     <label class="text-black" for="category">Kategorija</label>
-                                    <select class="custom-select" name="category" id="category">
+                                    <select class="custom-select" name="categoryId" id="category">
                                         <option selected disabled value=""> -- Kategorija -- </option>
                                         @foreach($categories as $category)
                                             <option value="{{$category->id}}">{{$category->name}}</option>

@@ -23,6 +23,7 @@
                     <li class="mr-5"><a href="/contact">Kontaktai</a></li>
 
                     @auth
+                    <li class="ml-xl-3 login"><a href="#"><span class="border-left pl-xl-4"></span>{{Auth::user()->name}}</a></li>
                     <li class="ml-xl-3 login"><a href="{{route('logout')}}"><span class="border-left pl-xl-4"></span>Atsijungti</a></li>
                     @endauth
 

@@ -2560,3 +2560,7 @@ figure figcaption {
   background: #e3e3e3;
 }
 
+.comment-list li p {
+  overflow-wrap: break-word;
+}
+

@@ -61,7 +61,7 @@ class AdsController extends Controller
         if(Auth::id() === 1) { //admin
             $ads = Ads::all();
         }  else {
-            $ads = Ads::where("userId", "=", Auth::id())->get();
+            $ads = Ads::where("userId", Auth::id())->get();
         }
         return view("skelbimai.pages.manageAds", compact("ads"));
     }

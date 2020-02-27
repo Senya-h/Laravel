@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37d26c1b-6448-443c-9757-559651f65935" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/10/10c72c39cd02a58eb04dc88ef10c4fcf93166acb002a0925eb30db364c44f1d5.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/10/10c72c39cd02a58eb04dc88ef10c4fcf93166acb002a0925eb30db364c44f1d5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/1a/1a252bbb81ec9c047fc0ea8e9b6a10f55e0d33f37616988384644fef30a46c75.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/1a/1a252bbb81ec9c047fc0ea8e9b6a10f55e0d33f37616988384644fef30a46c75.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/1d/1da45e8aa0465bec769fff74cd812af91199a0218e000af0be9b94b44a56cc31.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/1d/1da45e8aa0465bec769fff74cd812af91199a0218e000af0be9b94b44a56cc31.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/43/43cd04f09538f9b67db51dc0091b119a42967d22ef668495481b19aacd180026.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/43/43cd04f09538f9b67db51dc0091b119a42967d22ef668495481b19aacd180026.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/63/638e1599e869649c2d9660d6ce4683aa6599fd1de57f808cb2b6000b5a2f6750.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/63/638e1599e869649c2d9660d6ce4683aa6599fd1de57f808cb2b6000b5a2f6750.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/71/71e952f92fa3f548d483bf04e9f639f5cba7763d7c1bd3c5fca4e3b79ca2a818.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/71/71e952f92fa3f548d483bf04e9f639f5cba7763d7c1bd3c5fca4e3b79ca2a818.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/7e/7e3f1c43ec22d0e30941cfeceb159feab5830d5794b90952cd86639b098bcd21.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/7e/7e3f1c43ec22d0e30941cfeceb159feab5830d5794b90952cd86639b098bcd21.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/83/8301d02bd2500b3a0d113f440a7c809010bdb7215c91e997ab54cd7bbaa7f57c.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/83/8301d02bd2500b3a0d113f440a7c809010bdb7215c91e997ab54cd7bbaa7f57c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/8c/8cfe52fad640fea6864724a83310f083ed04d910e3f9c65e59bc16c11bf1fe2b.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/8c/8cfe52fad640fea6864724a83310f083ed04d910e3f9c65e59bc16c11bf1fe2b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/9a/9aa35e4346bfa4dba1d6e73ec2eff2e9c8e1b4a422b04d5c7a1c510c4a8bb642.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/9a/9aa35e4346bfa4dba1d6e73ec2eff2e9c8e1b4a422b04d5c7a1c510c4a8bb642.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/9d/9d56c7b1b3e49ed82a485b3f8aaacc7ac9eb60526334cbd08f5cb62fe20fdaef.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/9d/9d56c7b1b3e49ed82a485b3f8aaacc7ac9eb60526334cbd08f5cb62fe20fdaef.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/a3/a32462770f4a68a6845d610322518f6698996ebbb0f7075a9f5472c6dbe1918d.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/a3/a32462770f4a68a6845d610322518f6698996ebbb0f7075a9f5472c6dbe1918d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/ac/ac24f26c6f26a5a480072a63aec02feff88914e6b34251d1591642a19c3a6d61.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/ac/ac24f26c6f26a5a480072a63aec02feff88914e6b34251d1591642a19c3a6d61.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/d1/d19525b0ad19d2dc4145fc7f55178ae5f8bf0c9ea28d43422febb6b170db51af.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/d1/d19525b0ad19d2dc4145fc7f55178ae5f8bf0c9ea28d43422febb6b170db51af.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/d4/d49b804c743ed4e43abd5aaca939be3929e153e41b69e903616f4d3a8412e280.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/d4/d49b804c743ed4e43abd5aaca939be3929e153e41b69e903616f4d3a8412e280.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/d7/d72b2f5d442015f9b0ea9872be3af4ba52c97208730f21783af46f66e12fe084.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/d7/d72b2f5d442015f9b0ea9872be3af4ba52c97208730f21783af46f66e12fe084.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/e7/e7d877cb943acf13347b2dc0df1476d978078d02ad41c440b23b18a723ec744f.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/e7/e7d877cb943acf13347b2dc0df1476d978078d02ad41c440b23b18a723ec744f.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/e9/e9c5a7dd3a7341bd63c03df3c8fd0ddec664ff85bd68402a5d2ecb1b57e812c1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/e9/e9c5a7dd3a7341bd63c03df3c8fd0ddec664ff85bd68402a5d2ecb1b57e812c1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../db/public/tmp/twig/f7/f7be9814127bf420cac78cf8e7d20d62d84639de190112fe505e4a5500c517ba.php" beforeDir="false" afterPath="$PROJECT_DIR$/../db/public/tmp/twig/f7/f7be9814127bf420cac78cf8e7d20d62d84639de190112fe505e4a5500c517ba.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/main.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-134">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env.example">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="15" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>header</find>
+      <find>main</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/profile.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/main.js" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/nav.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/home.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/pages/profile.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/footer.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/popularCategories.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/testimonials.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/ourBlog.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/newsletter.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/pages/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/overlay.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/featuredAds.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/_partials/trendingToday.blade.php" />
+        <option value="$PROJECT_DIR$/assets/index.html" />
+        <option value="$PROJECT_DIR$/resources/views/skelbimai/main.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark-ext-table" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="skelbimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skelbimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skelbimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skelbimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skelbimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skelbimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skelbimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skelbimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="skelbimai" type="b2602c69:ProjectViewProjectNode" />
+              <item name="skelbimai" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views\skelbimai" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views\skelbimai\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zuikis\code\skelbimai" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\public" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views\skelbimai\_partials" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\assets" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\public\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37d26c1b-6448-443c-9757-559651f65935" name="Default" comment="" />
+      <created>1580742728959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580742728959</updated>
+      <workItem from="1580742730184" duration="5927000" />
+      <workItem from="1580795577891" duration="643000" />
+      <workItem from="1580810872997" duration="8510000" />
+      <workItem from="1580885033224" duration="164000" />
+      <workItem from="1580931967635" duration="894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16138000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536913" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32796487" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SvgViewer" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SvgViewer" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/pages/profile.blade.php" />
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/nav.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/overlay.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/popularCategories.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/ourBlog.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/testimonials.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/featuredAds.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="105" selection-start-line="14" selection-start-column="105" selection-end-line="14" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/newsletter.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/pages/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/_partials/trendingToday.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="11" column="101" selection-start-line="11" selection-start-column="101" selection-end-line="11" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/skelbimai/main.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="15" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

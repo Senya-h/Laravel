@@ -5,3 +5,27 @@
 .rounded-pill {
     padding: 5px;
 }
+
+progress {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: lightgrey;
+    border-radius: 5px;
+}
+
+progress::-webkit-progress-bar {
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+progress::-webkit-progress-value {
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+
+progress::-moz-progress-bar {
+    border-radius: 5px;
+    background-color: greenyellow;
+}
+

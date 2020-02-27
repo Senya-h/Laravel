@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9443d1fe-0da7-49d4-a5d4-02827adef6c9" name="Default" comment="" />
+    <list default="true" id="9443d1fe-0da7-49d4-a5d4-02827adef6c9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/components/App/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/todo/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/todo/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/resources/views/todo/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/todo/resources/views/todo/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,17 +33,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/react_demo/demo/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="407">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -35,9 +42,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Footer.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.scss">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Article.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Article/Article.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="20" column="8" selection-end-line="33" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Location.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Location/Location.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/data/posts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="77" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -46,6 +99,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,17 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/skelbimai/resources/views/auth/register.blade.php" />
-        <option value="$PROJECT_DIR$/skelbimai/resources/views/auth/login.blade.php" />
-        <option value="$PROJECT_DIR$/skelbimai/resources/views/sitas.php" />
-        <option value="$PROJECT_DIR$/skelbimai/resources/views/sitas2.php" />
-        <option value="$PROJECT_DIR$/skelbimai/database/migrations/2020_02_06_123730_create_ads_table.php" />
-        <option value="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/addAd.blade.php" />
-        <option value="$PROJECT_DIR$/skelbimai/app/Providers/AuthServiceProvider.php" />
-        <option value="$PROJECT_DIR$/skelbimai/routes/web.php" />
-        <option value="$PROJECT_DIR$/skelbimai/assets/blog-single.html" />
-        <option value="$PROJECT_DIR$/skelbimai/public/css/style.css" />
-        <option value="$PROJECT_DIR$/skelbimai/resources/scss/_site-blocks.scss" />
         <option value="$PROJECT_DIR$/skelbimai/app/User.php" />
         <option value="$PROJECT_DIR$/skelbimai/app/Comment.php" />
         <option value="$PROJECT_DIR$/skelbimai/database/migrations/2020_02_14_074550_create_comments_table.php" />
@@ -102,23 +145,34 @@
         <option value="$PROJECT_DIR$/todo/app/Providers/RouteServiceProvider.php" />
         <option value="$PROJECT_DIR$/todo/routes/web.php" />
         <option value="$PROJECT_DIR$/todo/app/Http/Controllers/Auth/LoginController.php" />
-        <option value="$PROJECT_DIR$/todo/resources/views/todo/main.blade.php" />
         <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/addPriority.blade.php" />
         <option value="$PROJECT_DIR$/todo/database/migrations/2020_02_24_075447_create_priorities_table.php" />
         <option value="$PROJECT_DIR$/todo/app/Http/Controllers/PriorityController.php" />
         <option value="$PROJECT_DIR$/drush/Drush2/drupal-8.8.2/sites/default/settings.php" />
         <option value="$PROJECT_DIR$/drush/Drush/drupal-8.8.2/sites/default/settings.php" />
-        <option value="$PROJECT_DIR$/todo/public/css/style.css" />
         <option value="$PROJECT_DIR$/todo/database/migrations/2020_02_24_070436_create_todos_table.php" />
         <option value="$PROJECT_DIR$/todo/app/Priority.php" />
         <option value="$PROJECT_DIR$/todo/app/Todo.php" />
         <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/addTodo.blade.php" />
         <option value="$PROJECT_DIR$/todo/app/Http/Controllers/HomeController.php" />
-        <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php" />
         <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/editTodo.blade.php" />
         <option value="$PROJECT_DIR$/todo/app/Http/Controllers/TodoController.php" />
-        <option value="$PROJECT_DIR$/react_demo/demo/src/index.js" />
+        <option value="$PROJECT_DIR$/todo/config/app.php" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/App.js" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.jsx" />
+        <option value="$PROJECT_DIR$/todo/public/css/style.css" />
         <option value="$PROJECT_DIR$/react_demo/demo/src/components/App/App.js" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.scss" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.jsx" />
+        <option value="$PROJECT_DIR$/react_demo/demo/public/index.html" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/index.js" />
+        <option value="$PROJECT_DIR$/todo/resources/views/todo/main.blade.php" />
+        <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/data/posts.js" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/App/App.jsx" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Article/Article.jsx" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Location/Location.jsx" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx" />
       </list>
     </option>
   </component>
@@ -241,6 +295,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -290,6 +345,15 @@
               <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Article" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Footer" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -308,13 +372,29 @@
               <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Location" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Main" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="data" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,19 +408,19 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.vagrant" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components\App" />
-      <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components" />
-      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views" />
-      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views\skelbimai" />
-      <recent name="C:\Users\moksleivis\code\skelbimai\public\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components\App" />
       <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components" />
       <recent name="C:\Users\moksleivis\code\skelbimai\resources\views" />
       <recent name="C:\Users\moksleivis\code\skelbimai\public\images" />
       <recent name="C:\Users\moksleivis\code\skelbimai\resources\views\skelbimai\pages" />
-      <recent name="C:\Users\moksleivis\code\skelbimai\public\css\vendor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components\App" />
+      <recent name="C:\Users\moksleivis\code\react_demo\demo\src" />
+      <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views\skelbimai" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -390,12 +470,14 @@
       <workItem from="1582716880204" duration="94000" />
       <workItem from="1582717001611" duration="614000" />
       <workItem from="1582782369734" duration="596000" />
-      <workItem from="1582783552466" duration="4564000" />
+      <workItem from="1582783552466" duration="5501000" />
+      <workItem from="1582789706742" duration="104000" />
+      <workItem from="1582789830647" duration="16932000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140508000" />
+    <option name="totallyTimeSpent" value="158481000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -415,12 +497,12 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.2527233" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32497275" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" visible="true" weight="0.2527233" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32388222" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" weight="0.25054467" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22761194" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -430,26 +512,28 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32570806" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17004265" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32388222" />
+      <window_info anchor="right" id="SvgViewer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22761194" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
-      <window_info anchor="right" id="SvgViewer" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" visible="true" weight="0.26252723" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" weight="0.25054467" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.2527233" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
@@ -468,45 +552,10 @@
           <line>10</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/addAd.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skelbimai/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="22" selection-start-line="22" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skelbimai/app/Ads.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" selection-start-line="14" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/ad.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="72" column="54" selection-start-line="72" selection-start-column="41" selection-end-line="72" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todo/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skelbimai/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -605,13 +654,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/manageStatuses.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/AdsController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -622,27 +664,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drush/Drush2/drupal-8.8.2/sites/default/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="768" selection-start-line="768" selection-end-line="768" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drush/Drush/drupal-8.8.2/sites/default/settings.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="768" column="64" selection-start-line="768" selection-start-column="64" selection-end-line="768" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/main.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/drush/Drush2/drupal-8.8.2/sites/default/settings.php" />
+    <entry file="file://$PROJECT_DIR$/drush/Drush/drupal-8.8.2/sites/default/settings.php" />
     <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/addPriority.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -671,37 +694,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-          <folding>
-            <element signature="e#962#993#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-          <folding>
-            <element signature="e#40#68#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todo/app/Priority.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todo/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -733,13 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/editTodo.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/TodoController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
@@ -747,69 +736,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/package.json">
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/manageStatuses.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/.gitignore">
+    <entry file="file://$PROJECT_DIR$/todo/app/Priority.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/editTodo.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/public/index.html">
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="168">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/App.test.js">
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="194">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/index.js">
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        <state relative-caret-position="117">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.jsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx">
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.jsx">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.js">
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="245">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.scss">
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Article/Article.scss">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/main.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="12" column="121" selection-start-line="12" selection-start-column="121" selection-end-line="12" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/data/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="77" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Article/Article.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="20" column="8" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Location/Location.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

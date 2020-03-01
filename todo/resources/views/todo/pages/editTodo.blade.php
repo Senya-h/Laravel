@@ -20,9 +20,9 @@
             </div>
             <div class="form-group">
                 <label for="priority">Priority</label>
-                <select id="priority" name="priority" class="custom-select">
+                <select id="priority" name="priorityId" class="custom-select">
                     @foreach($priorities as $priority)
-                        <option value="{{$priority->name}}" {{$priority->name == $todo->priority? "selected": ""}} >{{$priority->name}}</option>
+                        <option value="{{$priority->id}}" {{$priority->id == $todo->priorityId? "selected": ""}} >{{$priority->name}}</option>
                     @endforeach
                 </select>
             </div>
@@ -32,9 +32,9 @@
             </div>
             <div class="form-group">
                 <label for="status">Status</label>
-                <select id="status" name="status" class="custom-select">
+                <select id="status" name="statusId" class="custom-select">
                     @foreach($statuses as $status)
-                        <option value="{{$status->name}}" {{$status->name == $todo->status? "selected": ""}} >{{$status->name}}</option>
+                        <option value="{{$status->id}}" {{$status->id == $todo->statusId? "selected": ""}} >{{$status->name}}</option>
                     @endforeach
                 </select>
             </div>

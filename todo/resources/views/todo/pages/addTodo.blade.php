@@ -22,7 +22,7 @@
             <label for="priority">Priority</label>
             <select id="priority" name="priority" class="custom-select">
                 @foreach($priorities as $priority)
-                    <option value="{{$priority->name}}">{{$priority->name}}</option>
+                    <option value="{{$priority->id}}">{{$priority->name}}</option>
                 @endforeach
             </select>
         </div>
@@ -34,7 +34,7 @@
             <label for="status">Status</label>
             <select id="status" name="status" class="custom-select">
                 @foreach($statuses as $status)
-                    <option value="{{$status->name}}">{{$status->name}}</option>
+                    <option value="{{$status->id}}">{{$status->name}}</option>
                 @endforeach
             </select>
         </div>

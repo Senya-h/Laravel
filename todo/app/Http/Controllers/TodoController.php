@@ -12,7 +12,7 @@ class TodoController extends Controller
 {
     public function __construct()
     {
-        $this->middleware('auth');
+        $this->middleware('auth')->except('api_getAllTodos');
     }
 
     public function addTodoForm() {
@@ -32,9 +32,9 @@ class TodoController extends Controller
 
         Todo::create([
             'subject' => request('subject'),
-            'priority' => request('priority'),
+            'priorityId' => request('priority'),
             'dueDate' => request('dueDate'),
-            'status' => request('status'),
+            'statusId' => request('status'),
             'percent' => request('percent'),
             'userId' => Auth::id()
         ]);
@@ -57,5 +57,22 @@ class TodoController extends Controller
     public function removeTodo($id) {
         Todo::where("id", $id)->delete();
         return redirect("/");
+    }
+
+    public function api_getAllTodos() {
+        $todos = Todo::select(
+            "todos.id as id",
+            "todos.subject as subject",
+            "todos.priorityId as priorityId",
+            "todos.dueDate as dueDate",
+            "todos.statusId as statusId",
+            "todos.percent as percent",
+            "todos.updated_at as updated_at",
+            "priorities.color as priorityColor",
+            "priorities.name as priorityName",
+            "statuses.name as statusName"
+        )->join("priorities", "priorities.id", "=", "todos.priorityId")
+        ->join("statuses", "statuses.id", "=", "todos.statusId")->get();
+        return response($todos, 200);
     }
 }

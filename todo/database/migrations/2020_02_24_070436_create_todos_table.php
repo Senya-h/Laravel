@@ -16,9 +16,9 @@ class CreateTodosTable extends Migration
         Schema::create('todos', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string("subject");
-            $table->string("priority");
+            $table->string("priorityId");
             $table->date("dueDate");
-            $table->string("status");
+            $table->string("statusId");
             $table->tinyInteger("percent");
 
             $table->bigInteger('userId');

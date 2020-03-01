@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9443d1fe-0da7-49d4-a5d4-02827adef6c9" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/skelbimai/app/Http/Controllers/AdsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/skelbimai/app/Http/Controllers/AdsController.php" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/components/App/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/react_demo/demo/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_demo/demo/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/todo/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/todo/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/resources/views/todo/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/todo/resources/views/todo/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php" afterDir="false" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,6 +35,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -31,10 +50,21 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+=======
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,43 +72,87 @@
               <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
+=======
+      <file leaf-file-name="App.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="341">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1854">
               <caret line="95" column="21" selection-start-line="95" selection-start-column="21" selection-end-line="95" selection-end-column="21" />
+=======
+      <file leaf-file-name="Article.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Article/Article.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="20" column="8" selection-end-line="33" selection-end-column="23" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="main.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/main.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
               <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+=======
+      <file leaf-file-name="Main.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="addPriority.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/addPriority.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
               <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+=======
+      <file leaf-file-name="Location.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Location/Location.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="PriorityController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/PriorityController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="621">
               <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+=======
+      <file leaf-file-name="posts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_demo/demo/src/data/posts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="77" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </state>
           </provider>
         </entry>
@@ -89,6 +163,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+<<<<<<< HEAD
+=======
+        <option value="JavaScript File" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
       </list>
     </option>
   </component>
@@ -111,6 +189,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/skelbimai/resources/views/skelbimai/auth/register.blade.php" />
         <option value="$PROJECT_DIR$/skelbimai/app/Http/Controllers/Auth/RegisterController.php" />
         <option value="$PROJECT_DIR$/skelbimai/app/Http/Controllers/Auth/LoginController.php" />
@@ -126,6 +205,8 @@
         <option value="$PROJECT_DIR$/skelbimai/assets/blog-single.html" />
         <option value="$PROJECT_DIR$/skelbimai/public/css/style.css" />
         <option value="$PROJECT_DIR$/skelbimai/resources/scss/_site-blocks.scss" />
+=======
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
         <option value="$PROJECT_DIR$/skelbimai/app/User.php" />
         <option value="$PROJECT_DIR$/skelbimai/app/Comment.php" />
         <option value="$PROJECT_DIR$/skelbimai/database/migrations/2020_02_14_074550_create_comments_table.php" />
@@ -139,6 +220,7 @@
         <option value="$PROJECT_DIR$/skelbimai/app/Http/Controllers/CategoryController.php" />
         <option value="$PROJECT_DIR$/skelbimai/app/Http/Controllers/AdsController.php" />
         <option value="$PROJECT_DIR$/todo/.env" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/todo/database/migrations/2020_02_24_070436_create_todos_table.php" />
         <option value="$PROJECT_DIR$/todo/app/User.php" />
         <option value="$PROJECT_DIR$/todo/app/Todo.php" />
@@ -148,12 +230,19 @@
         <option value="$PROJECT_DIR$/todo/app/Http/Controllers/StatusController.php" />
         <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/addTodo.blade.php" />
         <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/editTodo.blade.php" />
+=======
+        <option value="$PROJECT_DIR$/todo/app/User.php" />
+        <option value="$PROJECT_DIR$/todo/database/migrations/2020_02_24_075609_create_statuses_table.php" />
+        <option value="$PROJECT_DIR$/todo/app/Status.php" />
+        <option value="$PROJECT_DIR$/todo/app/Http/Controllers/StatusController.php" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
         <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/managePriorities.blade.php" />
         <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/manageStatuses.blade.php" />
         <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/addStatus.blade.php" />
         <option value="$PROJECT_DIR$/todo/app/Providers/RouteServiceProvider.php" />
         <option value="$PROJECT_DIR$/todo/routes/web.php" />
         <option value="$PROJECT_DIR$/todo/app/Http/Controllers/Auth/LoginController.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/todo/app/Http/Controllers/TodoController.php" />
         <option value="$PROJECT_DIR$/todo/resources/views/todo/main.blade.php" />
         <option value="$PROJECT_DIR$/todo/public/css/style.css" />
@@ -162,6 +251,36 @@
         <option value="$PROJECT_DIR$/todo/app/Http/Controllers/PriorityController.php" />
         <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php" />
         <option value="$PROJECT_DIR$/todo/app/Http/Controllers/HomeController.php" />
+=======
+        <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/addPriority.blade.php" />
+        <option value="$PROJECT_DIR$/todo/database/migrations/2020_02_24_075447_create_priorities_table.php" />
+        <option value="$PROJECT_DIR$/todo/app/Http/Controllers/PriorityController.php" />
+        <option value="$PROJECT_DIR$/drush/Drush2/drupal-8.8.2/sites/default/settings.php" />
+        <option value="$PROJECT_DIR$/drush/Drush/drupal-8.8.2/sites/default/settings.php" />
+        <option value="$PROJECT_DIR$/todo/database/migrations/2020_02_24_070436_create_todos_table.php" />
+        <option value="$PROJECT_DIR$/todo/app/Priority.php" />
+        <option value="$PROJECT_DIR$/todo/app/Todo.php" />
+        <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/addTodo.blade.php" />
+        <option value="$PROJECT_DIR$/todo/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/editTodo.blade.php" />
+        <option value="$PROJECT_DIR$/todo/app/Http/Controllers/TodoController.php" />
+        <option value="$PROJECT_DIR$/todo/config/app.php" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/App.js" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.jsx" />
+        <option value="$PROJECT_DIR$/todo/public/css/style.css" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/App/App.js" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.scss" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.jsx" />
+        <option value="$PROJECT_DIR$/react_demo/demo/public/index.html" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/index.js" />
+        <option value="$PROJECT_DIR$/todo/resources/views/todo/main.blade.php" />
+        <option value="$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/data/posts.js" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/App/App.jsx" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Article/Article.jsx" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Location/Location.jsx" />
+        <option value="$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
       </list>
     </option>
   </component>
@@ -172,6 +291,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+<<<<<<< HEAD
+=======
+    <handled-path value="$PROJECT_DIR$/react_demo/demo/node_modules" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
     <handled-path value="$PROJECT_DIR$/skelbimai/node_modules" />
   </component>
   <component name="PackageJsonUpdateNotifier">
@@ -283,6 +406,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,73 +420,144 @@
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
               <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
               <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
               <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
               <item name="skelbimai" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
+              <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="App" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
+              <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Article" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
+              <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Footer" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
+              <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Header" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
+            </path>
+            <path>
+              <item name="code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
               <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Auth" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Location" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
               <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Main" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </path>
             <path>
               <item name="code" type="b2602c69:ProjectViewProjectNode" />
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
+<<<<<<< HEAD
               <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="migrations" type="2a2b976b:PhpTreeStructureProvider$1" />
@@ -410,18 +608,31 @@
               <item name="code" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="todo" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+=======
+              <item name="react_demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="data" type="2a2b976b:PhpTreeStructureProvider$1" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/todo" />
+=======
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Saulius/tinklapiai/Drupal API" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -430,6 +641,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="C:\Users\moksleivis\code\skelbimai\resources\views" />
       <recent name="C:\Users\moksleivis\code\skelbimai\public\images" />
       <recent name="C:\Users\moksleivis\code\skelbimai\resources\views\skelbimai\pages" />
@@ -442,6 +654,20 @@
       <recent name="C:\Users\moksleivis\code\skelbimai\public\css" />
       <recent name="C:\Users\moksleivis\code\skelbimai\public\css\bootstrap" />
       <recent name="C:\Users\moksleivis\code\skelbimai\public\css\vendor" />
+=======
+      <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components\App" />
+      <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\public\images" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views\skelbimai\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components\App" />
+      <recent name="C:\Users\moksleivis\code\react_demo\demo\src" />
+      <recent name="C:\Users\moksleivis\code\react_demo\demo\src\components" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views" />
+      <recent name="C:\Users\moksleivis\code\skelbimai\resources\views\skelbimai" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
     </key>
   </component>
   <component name="RunDashboard">
@@ -487,11 +713,25 @@
       <workItem from="1582533996071" duration="749000" />
       <workItem from="1582534762449" duration="1060000" />
       <workItem from="1582535838702" duration="2420000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1582702923396" duration="22000" />
+      <workItem from="1582716880204" duration="94000" />
+      <workItem from="1582717001611" duration="614000" />
+      <workItem from="1582782369734" duration="596000" />
+      <workItem from="1582783552466" duration="5501000" />
+      <workItem from="1582789706742" duration="104000" />
+      <workItem from="1582789830647" duration="16932000" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="134618000" />
+=======
+    <option name="totallyTimeSpent" value="158481000" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,6 +748,7 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="right" id="SvgViewer" order="3" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
@@ -517,6 +758,17 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.2527233" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32388222" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" weight="0.25054467" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22761194" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -526,6 +778,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+<<<<<<< HEAD
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -547,6 +800,31 @@
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+=======
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32388222" />
+      <window_info anchor="right" id="SvgViewer" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22761194" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" weight="0.25054467" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.2527233" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32897604" />
+      <window_info anchor="bottom" id="Message" order="0" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -564,6 +842,7 @@
           <line>10</line>
         </line-breakpoint>
       </breakpoints>
+<<<<<<< HEAD
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
@@ -691,11 +970,146 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+=======
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/skelbimai/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/main.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/database/migrations/2020_02_06_123730_create_ads_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/CommentController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/resources/views/skelbimai/pages/manageAds.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="31" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/app/Status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/StatusController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/managePriorities.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/addStatus.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/sass/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/AdsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="81" column="9" lean-forward="true" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drush/Drush2/drupal-8.8.2/sites/default/settings.php" />
+    <entry file="file://$PROJECT_DIR$/drush/Drush/drupal-8.8.2/sites/default/settings.php" />
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/addPriority.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/database/migrations/2020_02_24_075447_create_priorities_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/database/migrations/2020_02_24_075609_create_statuses_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/todo/app/Todo.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="136">
           <caret line="8" column="92" selection-start-line="8" selection-start-column="92" selection-end-line="8" selection-end-column="92" />
         </state>
@@ -747,12 +1161,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" selection-start-line="31" selection-end-line="34" />
+=======
+        <state relative-caret-position="168">
+          <caret line="8" column="72" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/database/migrations/2020_02_24_070436_create_todos_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/PriorityController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skelbimai/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="72" column="63" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/addTodo.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/TodoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/manageStatuses.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/todo/app/Priority.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
+<<<<<<< HEAD
           <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
@@ -845,10 +1313,80 @@
           <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
+=======
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/editTodo.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Footer/Footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/todo/app/Http/Controllers/PriorityController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -897,10 +1435,63 @@
           <caret line="81" column="9" lean-forward="true" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="9" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Article/Article.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Header/Header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/main.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="12" column="121" selection-start-line="12" selection-start-column="121" selection-end-line="12" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/data/posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="77" selection-start-line="35" selection-start-column="77" selection-end-line="35" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/App/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/todo/resources/views/todo/pages/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -922,6 +1513,29 @@
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Main/Main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Article/Article.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="20" column="8" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_demo/demo/src/components/Location/Location.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+>>>>>>> 08bb79f2370fe502774667740a2d92bd0be1bd5a
         </state>
       </provider>
     </entry>

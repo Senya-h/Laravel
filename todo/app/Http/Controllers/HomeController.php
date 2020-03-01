@@ -26,15 +26,19 @@ class HomeController extends Controller
     public function index()
     {
         $todos = Todo::select(
-            "todo.id as id",
-            "todo.subject as subject",
-            "todo.priority as priority",
-            "todo.dueDate as dueDate",
-            "todo.status as status",
-            "todo.percent as percent",
-            "todo.updated_at as updated_at",
-            "priorities.color as priorityColor"
-        )->join("priorities", "priorities.id", "=", "todo.priorityId")->get();
+            "todos.id as id",
+            "todos.subject as subject",
+            "todos.priorityId as priorityId",
+            "todos.dueDate as dueDate",
+            "todos.statusId as statusId",
+            "todos.percent as percent",
+            "todos.updated_at as updated_at",
+            "priorities.color as priorityColor",
+            "priorities.name as priorityName",
+            "statuses.name as statusName"
+        )->join("priorities", "priorities.id", "=", "todos.priorityId")
+        ->join("statuses", "statuses.id", "=", "todos.statusId")->get();
+
         return view('todo.pages.home', compact('todos'));
     }
 }

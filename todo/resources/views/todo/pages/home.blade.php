@@ -20,17 +20,21 @@
 
                 @foreach($todos as $todo)
                     <tr>
-                        <th scope="row">{{$todo->id}}</th>
+                        <th scope="row"><i class="fas fa-check"></i></th>
                         <td>{{$todo->subject}}</td>
                         <td class="text-center">
-                            <div class="rounded-pill" style="background-color: {{$todo->}}">
-                                {{$todo->priority}}
+                            <div class="rounded-pill" style="background-color: {{$todo->priorityColor}}">
+                                {{$todo->priorityName}}
                             </div>
-
                         </td>
                         <td>{{$todo->dueDate}}</td>
-                        <td>{{$todo->status}}</td>
-                        <td>{{$todo->percent}}</td>
+                        <td>{{$todo->statusName}}</td>
+                        <td>
+                            <div class="d-flex align-items-center">
+                                {{$todo->percent}}
+                                <progress class="ml-auto" max="100" value="{{$todo->percent}}">{{$todo->percent}}</progress>
+                            </div>
+                        </td>
                         <td>{{$todo->updated_at}}</td>
                         <td>
                             <a href="/edit/todo/{{$todo->id}}" class="btn btn-primary">Edit</a>
